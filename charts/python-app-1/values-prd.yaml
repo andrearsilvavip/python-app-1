@@ -1,0 +1,8 @@
+httpRoute:
+  enabled: false  # ou true se quiser ativar
+replicaCount: 2
+
+resources:
+  requests:
+    cpu: 60m
+    memory: 60M
