@@ -2,7 +2,7 @@ replicaCount: 1
 image:
   repository: andreavix/python-app-1
   pullPolicy: IfNotPresent
-  tag: python-app-1-dev-latest
+  tag: d0774f
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
